@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+alembic.ini
+migrations/
+reqpils
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+venv/
